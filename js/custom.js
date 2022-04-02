@@ -48,10 +48,10 @@ function background() {
         homebody.backstretch("images/photos/concert.jpg");
         $('.main').find(".about").backstretch("images/photos/1.jpg");
         $('.main').find(".albums").backstretch("images/photos/2.jpg");
-        $('.main').find(".news").backstretch("images/photos/5.jpg");
-        $('.main').find(".events").backstretch("images/photos/6.jpg");
+        $('.main').find(".news").backstretch("images/photos/set-list.jpg");
+        $('.main').find(".events").backstretch("images/photos/post.jpg");
         $('.main').find(".blog").backstretch("images/photos/4.jpg");
-        $('.main').find(".contact").backstretch("images/photos/7.jpg");
+        $('.main').find(".contact").backstretch("images/photos/contact-me.jpg");
     }
 }
 
